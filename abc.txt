@@ -5,6 +5,11 @@ qqqqq
 This is done on b50
 This is done in b60
 
+
+Added for new feature.
+
+Another new feature
+
 In the mean time master changed.
 	
 This is my new feature
