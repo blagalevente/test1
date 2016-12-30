@@ -7,3 +7,5 @@ This is done in b60
 
 In the mean time master changed.
 	
+This is my new feature
+
