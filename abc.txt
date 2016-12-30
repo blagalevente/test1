@@ -6,3 +6,5 @@ This is done on b50
 This is done in b60
 
 Added for new feature.
+
+Another new feature
