@@ -15,3 +15,6 @@ In the mean time master changed.
 This is my new feature
 
 Something new added.
+
+Changing master
+
